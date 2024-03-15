@@ -4,7 +4,7 @@ Instruct-tuned the LLaMA recreation by OpenLM Research "Open LLaMA 7b", consisti
 
 *** IMPORTANTLY -- we used QLoRA for efficient fine-tuning! QLoRA (4-bit) reduces memory usage so I can finetune a 7b parameter model in just 1.5 hours on A100 on Google Colab (5,000 iterations)!
     
-- [QLoRA](https://github.com/artidoro/qlora) preserves the full 16-bit finetuning task performance by implementing 4-bit NormalFloat (NF4)< a new data type that is optimal for saving memory without sacrificing performance.
+- [QLoRA](https://github.com/artidoro/qlora) preserves the full 16-bit finetuning task performance by implementing 4-bit NormalFloat (NF4), a new data type that is optimal for saving memory without sacrificing performance.
     
 We trained the LLM on the Dolly15k dataset, consisting of 15,000 prompts/answers (some with additional context). 
 
