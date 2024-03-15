@@ -1,6 +1,6 @@
-# Fine-Tuning-LLM
+### Fine-Tuning-LLM
 
-Project 1: ** Instruct-Tuning LLaMA (Supervised) **
+# Project 1: Instruct-Tuning LLaMA (Supervised) 
 
 <a href="https://github.com/artidoro/qlora">
   <img src="[https://shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge](https://opengraph.githubassets.com/ae28b412dd5e59ffe956b15aadc71b1c3073c052e4fc022cdea9124ad8dfd0d9/artidoro/qlora)https://opengraph.githubassets.com/ae28b412dd5e59ffe956b15aadc71b1c3073c052e4fc022cdea9124ad8dfd0d9/artidoro/qlora" alt="qlora"/>
