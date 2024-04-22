@@ -10,7 +10,7 @@ We trained the LLM on the Dolly15k dataset, consisting of 15,000 prompts/answers
 
 Training Goal: Make the LLM user-friendly! User is able to talk and get a quality response. Not just the transformer playing "predict the next token".
 
-** Needs some slight revision. My goal is to upload this to HuggingFace and make a front-end. I've worked with lots of models, done lots of research/read lots of papers, finetuned... but haven't made something "end-to-end" until this! Will complete by March 28.
+** Needs some slight revision.
 
 
 # Project 2: Fine-Tuning BLOOMZ (Unsupervised)
@@ -21,4 +21,4 @@ We used [LoRA](https://arxiv.org/abs/2106.09685), the 8-bit version. LoRA update
 
 We note that we only trained on 17 data points and got remarkably good performance. 
 
-** I am excited especially by Project 2, since I can create so many different applications and obtain good performance, even on small datasets. Will certainly revise this, as well. Again, I'll add front end and train on a new dataset. Currently thinking of making it write jokes in the style of some of my favorite comedians.
+** I am excited especially by Project 2, since I can create so many different applications and obtain good performance, even on small datasets. 
